@@ -9,7 +9,7 @@ Now some years later I studied computer science to manage computers all type of 
 
 Finally my unquiet ass decide to upgrade my knowledgments doing a degree in computer science, focusing my degree in artificial intelligence topics. Finally my last challenge are be doing an computer vision master for UAB, UPC, UPF and UOC universities.
 
-Actually I'm working as architect/developer of software!
+Actually I'm working as <b>architect/developer</b> of software and ending my master dissertation about Asbestos detection (Repo). 
 
 ## Technologies
 
