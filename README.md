@@ -9,7 +9,7 @@
 ## About me
 I'm a <b>Computer science</b>, <b>Artificial intelligence</b> and <b>videogames</b> appassionate. I love the technology from years ago, when I had five years old I started to play games with MS-DOS, then arrive Windows 98/NT and I started to install windows, play with installers, touch any thing without fears to broke the operating system.
 
-Now some years later I studied computer science to manage computers all type of servers (DNS, HTTP, Active Directory, etc), then I started a course to develop multiplatform applications and I reach my first work developing all kind of applications using web tecnhlogies (JavaScript, PHP, Java, etc) and developing to Android. 
+Now some years later I studied computer science to manage computers all kind of servers (DNS, HTTP, Active Directory, etc), then I started a course to develop multiplatform applications and I reach my first work developing all kind of applications using web tecnhlogies (JavaScript, PHP, Java, etc) and developing to Android. 
 
 Finally my unquiet ass decide to upgrade my knowledgments doing a degree in computer science, focusing my degree in artificial intelligence topics. Finally my last challenge are be doing an computer vision master for UAB, UPC, UPF and UOC universities. Also in this time I learnt some of videogames developing and I participate in a gamejam of King company.
 
