@@ -16,7 +16,7 @@ Finally my unquiet ass decide to upgrade my knowledgments doing a degree in comp
 Actually I'm working as <b>architect/developer</b> of software and ending my master dissertation about Asbestos detection (Repo). 
 
 ## Technologies
-<table>
+<table align="center">
     <tr>
         <td valign="top" align="center">
             <h3 align="center"> Languages </h3>  
