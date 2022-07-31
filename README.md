@@ -13,7 +13,13 @@ Now some years later I studied computer science to manage computers all kind of 
 
 Finally my unquiet ass decide to upgrade my knowledgments doing a degree in computer science, focusing my degree in artificial intelligence topics. Finally my last challenge are be doing an computer vision master for UAB, UPC, UPF and UOC universities. Also in this time I learnt some of videogames developing and I participate in a gamejam of King company.
 
-Actually I'm working as <b>architect/developer</b> of software and ending my master dissertation about [Asbestos detection](https://github.com/kevinmf94/Asbestos-detection). 
+Actually I'm working as <b>architect/developer</b> of software and ending my master dissertation about [Asbestos detection](https://github.com/kevinmf94/Asbestos-detection).
+
+## Highlight projects
+
+- [Asbestos detection](https://github.com/kevinmf94/Asbestos-detection): Actually my current work for my master dissertation.
+- [GeoSpectralSimulator](https://github.com/kevinmf94/GEOSpectralSimulator): Project made for my degree dissertation, this consists in three components with the objective of provides an environment to generate synthetic dataset of aerial images in different spectral bands. The three modules are a 3D model generator (Python), Graphic motor to render and control simulation (Unreal Engine) and Python script to control trhough RPC the simulation and the acquisition of images.
+- And more that are for private companies ;)
 
 ## Technologies
 <table align="center">
