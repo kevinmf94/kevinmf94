@@ -33,7 +33,6 @@ Actually I'm working as <b>architect/developer</b> of software and ending my mas
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="60"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height=60/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" alt="PHP" title="PHP" height=60/>
-                
             </div>
         </td>
     </tr>
