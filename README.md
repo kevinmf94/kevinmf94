@@ -50,6 +50,7 @@ Actually I'm working as <b>architect/developer</b> of software and ending my mas
                 <img title="Wordpress" src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" height=60/>
                 <img title="Woocomerce" src="https://github.com/devicons/devicon/raw/master/icons/woocommerce/woocommerce-original.svg" height=60/>
                 <img alt="Chart.js" title="Chart.js" src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" height=60/>
+                <img alt="Prestashop" src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-prestashop"/>
             </div>
         </td>
     </tr>
