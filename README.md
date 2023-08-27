@@ -85,6 +85,7 @@ Actually I'm working as <b>architect/developer</b> of software and ending my mas
                 <img title="Unreal" src="https://github.com/devicons/devicon/raw/master/icons/unrealengine/unrealengine-original.svg" height=60/>
                 <img title="Unity" src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" height=60/>
                 <a href="https://www.openmp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" title="OpenMP" height=40/></a>
+                <img title="Qt" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" height=60/>
             </div>
         </td>
     </tr>
